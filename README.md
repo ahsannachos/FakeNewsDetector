@@ -31,7 +31,7 @@ Built with:
 
 4. Run the Flask server:
     ```bash
-    python flask.py
+    python app.py
     ```
 
 5. Open your browser at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
